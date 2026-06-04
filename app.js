@@ -30,13 +30,16 @@ async function cargarDatosDesdeJSON() {
 // 2. FUNCIÓN PARA NORMALIZAR DATOS (Limpia los caracteres extraños del formato de tu JSON)
 function normalizarDatos(arr) {
     return arr.map(item => {
-        // Manejamos las variaciones de caracteres debido a la codificación (Ncleo / Fragmentacin)
+        // Obtenemos el texto de la fragmentación de forma segura revisando las variantes de tildes
+        let fragTexto = item["Fragmentación"] || item["Fragmentacin"] || item["Fragmentación"] || "0";
+        let longitudTexto = item["Longitud total (m)"] || "0";
+
         return {
-            nucleo: item["Nícleo urbano"] || item["Ncleo urbano"] || item["Ncleo urbano"] || item["Nucleo urbano"],
+            nucleo: item["Nícleo urbano"] || item["Ncleo urbano"] || item["Nucleo urbano"] || "Desconocido",
             segmentos: parseInt(item["Segmentos"]) || 0,
             calles: parseInt(item["Calles"]) || 0,
-            longitud: parseFloat(String(item["Longitud total (m)"]).replace(',', '.')) || 0,
-            fragmentacion: parseFloat(String(item["Fragmentación"]) || String(item["Fragmentacin"]) || String(item["Fragmentacin"])).replace(',', '.') || 0
+            longitud: parseFloat(String(longitudTexto).replace(',', '.')) || 0,
+            fragmentacion: parseFloat(String(fragTexto).replace(',', '.')) || 0
         };
     });
 }
@@ -111,9 +114,8 @@ function inicializarGraficos() {
 
 // 6. ACCIÓN AL SELECCIONAR UN NÚCLEO (Busca información complementaria de sus calles)
 function verDetalle(nombreNucleo) {
-    // Filtramos las calles del segundo archivo JSON que pertenecen a este núcleo urbano
     const callesDelNucleo = datosCalles.filter(c => {
-        const nombreJSON = c["Nícleo urbano"] || c["Ncleo urbano"] || c["Ncleo urbano"] || c["Nucleo urbano"];
+        const nombreJSON = c["Nícleo urbano"] || c["Ncleo urbano"] || c["Nucleo urbano"];
         return nombreJSON === nombreNucleo;
     });
 
@@ -121,10 +123,6 @@ function verDetalle(nombreNucleo) {
         alert(`No se encontraron calles cargadas para el núcleo: ${nombreNucleo}`);
         return;
     }
-
-    // Ejemplo para ver los datos en la consola del navegador. 
-    // Aquí puedes renderizarlos en un modal o en otra tabla debajo de la página principal.
-    console.log(`Calles de ${nombreNucleo}:`, callesDelNucleo);
     
     let mensaje = `Calles encontradas en ${nombreNucleo}:\n`;
     callesDelNucleo.forEach(c => {

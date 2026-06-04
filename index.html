@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Panel de Mandos - Movilidad Urbana</title>
+    <title>Panel de Mandos - Movilidad Palencia</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
@@ -13,18 +13,20 @@
         
         <aside class="w-64 bg-white shadow-md flex flex-col justify-between p-4 hidden md:flex">
             <div>
-                <h2 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">Estratificación</h2>
+                <h2 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-4">Visualización</h2>
                 <div class="space-y-2">
-                    <button class="w-full bg-indigo-600 text-white text-left px-3 py-2 rounded-lg text-sm font-semibold shadow">Agregación Nacional</button>
-                    <button class="w-full text-gray-600 hover:bg-gray-100 text-left px-3 py-2 rounded-lg text-sm">Estrato A (>100k)</button>
-                    <button class="w-full text-gray-600 hover:bg-gray-100 text-left px-3 py-2 rounded-lg text-sm">Estrato B (20k-100k)</button>
-                    <button class="w-full text-gray-600 hover:bg-gray-100 text-left px-3 py-2 rounded-lg text-sm">Estrato C (<20k)</button>
+                    <button id="btn-vista-nucleos" onclick="cambiarVista('nucleos')" class="w-full bg-indigo-600 text-white text-left px-3 py-2 rounded-lg text-sm font-semibold shadow transition-all">
+                        Núcleos Urbanos
+                    </button>
+                    <button id="btn-vista-calles" onclick="cambiarVista('calles')" class="w-full text-gray-600 hover:bg-gray-100 text-left px-3 py-2 rounded-lg text-sm transition-all">
+                        Calles
+                    </button>
                 </div>
             </div>
             
             <div class="bg-indigo-900 text-white p-4 rounded-xl text-xs">
                 <h4 class="font-bold mb-1">NOTA METODOLÓGICA</h4>
-                <p class="opacity-75">Los datos muestran la fragmentación y longitud media de los segmentos por núcleo urbano y calles.</p>
+                <p class="opacity-75">Los datos muestran la fragmentación, número de calles y longitud totalizada de la provincia de Palencia.</p>
             </div>
         </aside>
 
@@ -32,14 +34,14 @@
             
             <header class="flex justify-between items-center border-b pb-4">
                 <div>
-                    <h1 class="text-xl font-bold text-gray-900">Auditoría de Red Urbana</h1>
-                    <p class="text-sm text-gray-500">Resultados y segmentación de núcleos y calles</p>
+                    <h1 class="text-xl font-bold text-gray-900">Auditoría de Red Urbana - Palencia</h1>
+                    <p class="text-sm text-gray-500">Resultados globales y segmentación detallada</p>
                 </div>
             </header>
 
             <section class="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-indigo-500">
-                    <p class="text-xs font-bold text-gray-400 uppercase">Longitud Total Red</p>
+                    <p class="text-xs font-bold text-gray-400 uppercase">Área Total Palencia</p>
                     <p id="kpi-longitud" class="text-3xl font-extrabold text-gray-900 mt-2">0 m</p>
                 </div>
                 <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-emerald-500">
@@ -54,13 +56,13 @@
 
             <section class="grid grid-cols-1 lg:grid-cols-3 gap-6">
                 <div class="bg-white p-4 rounded-xl shadow-sm lg:col-span-2">
-                    <h3 class="text-sm font-bold text-gray-700 mb-4">DESGLOSE TOP NÚCLEOS (Por Segmentos)</h3>
+                    <h3 id="titulo-grafico-barras" class="text-sm font-bold text-gray-700 mb-4">NÚMERO DE CALLES POR NÚCLEO (TOP 15)</h3>
                     <div class="h-64">
                         <canvas id="chartBarras"></canvas>
                     </div>
                 </div>
                 <div class="bg-white p-4 rounded-xl shadow-sm">
-                    <h3 class="text-sm font-bold text-gray-700 mb-4">FRAGMENTACIÓN MEDIA</h3>
+                    <h3 class="text-sm font-bold text-gray-700 mb-4">FRAGMENTACIÓN MEDIA (TOP 15)</h3>
                     <div class="h-64">
                         <canvas id="chartLineas"></canvas>
                     </div>
@@ -69,20 +71,13 @@
 
             <section class="bg-white rounded-xl shadow-sm overflow-hidden">
                 <div class="p-4 bg-gray-50 border-b flex justify-between items-center">
-                    <h3 class="text-sm font-bold text-gray-700">AUDITORÍA POR NÚCLEO URBANO</h3>
-                    <input type="text" id="buscador" placeholder="Buscar núcleo o calle..." class="text-sm px-3 py-1.5 border rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+                    <h3 id="titulo-tabla" class="text-sm font-bold text-gray-700">AUDITORÍA POR NÚCLEO URBANO</h3>
+                    <input type="text" id="buscador" placeholder="Buscar..." class="text-sm px-3 py-1.5 border rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
                 </div>
                 <div class="overflow-x-auto">
                     <table class="w-full text-left border-collapse">
-                        <thead>
-                            <tr class="bg-gray-100 text-xs font-bold text-gray-600 uppercase border-b">
-                                <th class="p-4">Núcleo Urbano</th>
-                                <th class="p-4">Segmentos</th>
-                                <th class="p-4">Calles</th>
-                                <th class="p-4">Longitud Total (m)</th>
-                                <th class="p-4">Fragmentación</th>
-                            </tr>
-                        </thead>
+                        <thead id="tabla-cabecera">
+                            </thead>
                         <tbody id="tabla-cuerpo" class="text-sm text-gray-700 divide-y">
                             </tbody>
                     </table>

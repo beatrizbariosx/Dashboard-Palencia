@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Panel de Mandos - Movilidad Palencia</title> 
+    <title>Panel de Mandos - Movilidad Palencia</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
@@ -26,7 +26,7 @@
             
             <div class="bg-indigo-900 text-white p-4 rounded-xl text-xs">
                 <h4 class="font-bold mb-1">NOTA METODOLÓGICA</h4>
-                <p class="opacity-75">Los datos muestran la fragmentación, número de calles y longitud totalizada de la provincia de Palencia.</p>
+                <p class="opacity-75">Auditoría vial, demográfica y de extensiones superficiales para la provincia de Palencia.</p>
             </div>
         </aside>
 
@@ -35,21 +35,21 @@
             <header class="flex justify-between items-center border-b pb-4">
                 <div>
                     <h1 class="text-xl font-bold text-gray-900">Auditoría de Red Urbana - Palencia</h1>
-                    <p class="text-sm text-gray-500">Resultados globales y segmentación detallada</p>
+                    <p class="text-sm text-gray-500">Resultados globales, áreas y habitantes</p>
                 </div>
             </header>
 
             <section class="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-indigo-500">
-                    <p class="text-xs font-bold text-gray-400 uppercase">Área Total Palencia</p>
-                    <p id="kpi-longitud" class="text-3xl font-extrabold text-gray-900 mt-2">0 m</p>
+                    <p class="text-xs font-bold text-gray-400 uppercase tracking-wider">ÁREAS TOTAL NÚCLEOS URBANOS</p>
+                    <p class="text-3xl font-extrabold text-gray-900 mt-2">90.283.904,35 m²</p>
                 </div>
                 <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-emerald-500">
-                    <p class="text-xs font-bold text-gray-400 uppercase">Total Núcleos</p>
+                    <p class="text-xs font-bold text-gray-400 uppercase tracking-wider">Total Núcleos</p>
                     <p id="kpi-nucleos" class="text-3xl font-extrabold text-gray-900 mt-2">0</p>
                 </div>
                 <div class="bg-white p-6 rounded-xl shadow-sm border-t-4 border-amber-500">
-                    <p class="text-xs font-bold text-gray-400 uppercase">Total Calles</p>
+                    <p class="text-xs font-bold text-gray-400 uppercase tracking-wider">Total Calles</p>
                     <p id="kpi-calles" class="text-3xl font-extrabold text-gray-900 mt-2">0</p>
                 </div>
             </section>
@@ -62,7 +62,7 @@
                     </div>
                 </div>
                 <div class="bg-white p-4 rounded-xl shadow-sm">
-                    <h3 class="text-sm font-bold text-gray-700 mb-4">FRAGMENTACIÓN MEDIA (TOP 15)</h3>
+                    <h3 id="titulo-grafico-lineas" class="text-sm font-bold text-gray-700 mb-4">POBLACIÓN POR NÚCLEO (TOP 15)</h3>
                     <div class="h-64">
                         <canvas id="chartLineas"></canvas>
                     </div>

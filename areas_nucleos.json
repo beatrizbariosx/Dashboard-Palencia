@@ -1,0 +1,2870 @@
+[
+  {
+    "nombre": "Monte la Torre",
+    "habitantes": 3,
+    "area_m2": "4008,071416",
+    "area_km2": "0,004008071"
+  },
+  {
+    "nombre": "Respenda de Aguilar",
+    "habitantes": 2,
+    "area_m2": "40928,3707",
+    "area_km2": "0,040928371"
+  },
+  {
+    "nombre": "Albal� de la Vega",
+    "habitantes": 32,
+    "area_m2": "49121,13372",
+    "area_km2": "0,049121134"
+  },
+  {
+    "nombre": "Quintanadiez de la Vega",
+    "habitantes": 151,
+    "area_m2": "289854,6195",
+    "area_km2": "0,289854619"
+  },
+  {
+    "nombre": "Casavegas",
+    "habitantes": 8,
+    "area_m2": "23354,686",
+    "area_km2": "0,023354686"
+  },
+  {
+    "nombre": "Villatoquite",
+    "habitantes": 60,
+    "area_m2": "132133,0952",
+    "area_km2": "0,132133095"
+  },
+  {
+    "nombre": "Calzada de los Molinos",
+    "habitantes": 310,
+    "area_m2": "416545,0865",
+    "area_km2": "0,416545086"
+  },
+  {
+    "nombre": "Dehesa de Matanzas de Arriba",
+    "habitantes": 1,
+    "area_m2": "9145,800517",
+    "area_km2": "0,009145801"
+  },
+  {
+    "nombre": "Perazancas de Ojeda",
+    "habitantes": 46,
+    "area_m2": "125438,0766",
+    "area_km2": "0,125438077"
+  },
+  {
+    "nombre": "Poblaci�n de Soto",
+    "habitantes": 17,
+    "area_m2": "57843,44927",
+    "area_km2": "0,057843449"
+  },
+  {
+    "nombre": "Cezura",
+    "habitantes": 8,
+    "area_m2": "59038,35422",
+    "area_km2": "0,059038354"
+  },
+  {
+    "nombre": "Porquera de Santull�n",
+    "habitantes": 83,
+    "area_m2": "73887,17514",
+    "area_km2": "0,073887175"
+  },
+  {
+    "nombre": "Barriosuso",
+    "habitantes": 15,
+    "area_m2": "73532,21415",
+    "area_km2": "0,073532214"
+  },
+  {
+    "nombre": "Celada de Roblecedo",
+    "habitantes": 21,
+    "area_m2": "93402,77166",
+    "area_km2": "0,093402772"
+  },
+  {
+    "nombre": "Villajimena",
+    "habitantes": 41,
+    "area_m2": "47479,77636",
+    "area_km2": "0,047479776"
+  },
+  {
+    "nombre": "Pozuelos del Rey",
+    "habitantes": 9,
+    "area_m2": "61925,07599",
+    "area_km2": "0,061925076"
+  },
+  {
+    "nombre": "Monasterio",
+    "habitantes": 14,
+    "area_m2": "61510,47901",
+    "area_km2": "0,061510479"
+  },
+  {
+    "nombre": "Olea de Boedo",
+    "habitantes": 39,
+    "area_m2": "45192,75679",
+    "area_km2": "0,045192757"
+  },
+  {
+    "nombre": "Pozo de Urama",
+    "habitantes": 18,
+    "area_m2": "88355,18863",
+    "area_km2": "0,088355189"
+  },
+  {
+    "nombre": "Vado",
+    "habitantes": 26,
+    "area_m2": "49546,75165",
+    "area_km2": "0,049546752"
+  },
+  {
+    "nombre": "Salinas de Pisuerga",
+    "habitantes": 280,
+    "area_m2": "219736,9457",
+    "area_km2": "0,219736946"
+  },
+  {
+    "nombre": "Sotillo de Boedo",
+    "habitantes": 12,
+    "area_m2": "49245,78385",
+    "area_km2": "0,049245784"
+  },
+  {
+    "nombre": "Vega de Riacos",
+    "habitantes": 2,
+    "area_m2": "31694,56084",
+    "area_km2": "0,031694561"
+  },
+  {
+    "nombre": "Osorno",
+    "habitantes": 1017,
+    "area_m2": "911257,4187",
+    "area_km2": "0,911257419"
+  },
+  {
+    "nombre": "Barrio de Santa Mar�a",
+    "habitantes": 27,
+    "area_m2": "113608,4555",
+    "area_km2": "0,113608455"
+  },
+  {
+    "nombre": "Carde�osa de Volpejera",
+    "habitantes": 60,
+    "area_m2": "108487,7347",
+    "area_km2": "0,108487735"
+  },
+  {
+    "nombre": "Terradillos de los Templarios",
+    "habitantes": 56,
+    "area_m2": "102918,6659",
+    "area_km2": "0,102918666"
+  },
+  {
+    "nombre": "Cembrero",
+    "habitantes": 12,
+    "area_m2": "32649,61598",
+    "area_km2": "0,032649616"
+  },
+  {
+    "nombre": "Villadiezma",
+    "habitantes": 56,
+    "area_m2": "105464,3858",
+    "area_km2": "0,105464386"
+  },
+  {
+    "nombre": "Cisneros",
+    "habitantes": 427,
+    "area_m2": "561254,603",
+    "area_km2": "0,561254603"
+  },
+  {
+    "nombre": "La Puebla de Valdavia",
+    "habitantes": 51,
+    "area_m2": "168540,2482",
+    "area_km2": "0,168540248"
+  },
+  {
+    "nombre": "Villasila de Valdavia",
+    "habitantes": 51,
+    "area_m2": "147337,1625",
+    "area_km2": "0,147337162"
+  },
+  {
+    "nombre": "Mantinos",
+    "habitantes": 142,
+    "area_m2": "136378,2753",
+    "area_km2": "0,136378275"
+  },
+  {
+    "nombre": "Gama",
+    "habitantes": 10,
+    "area_m2": "12351,557",
+    "area_km2": "0,012351557"
+  },
+  {
+    "nombre": "Estaci�n-Camesa",
+    "habitantes": 16,
+    "area_m2": "6364,551736",
+    "area_km2": "0,006364552"
+  },
+  {
+    "nombre": "Castil de Vela",
+    "habitantes": 55,
+    "area_m2": "137798,2225",
+    "area_km2": "0,137798223"
+  },
+  {
+    "nombre": "Camesa de Valdivia",
+    "habitantes": 82,
+    "area_m2": "55990,08343",
+    "area_km2": "0,055990083"
+  },
+  {
+    "nombre": "Villaescusa de las Torres",
+    "habitantes": 10,
+    "area_m2": "54966,12191",
+    "area_km2": "0,054966122"
+  },
+  {
+    "nombre": "Rebolledo de la Inera",
+    "habitantes": 6,
+    "area_m2": "13263,19311",
+    "area_km2": "0,013263193"
+  },
+  {
+    "nombre": "Herreruela de Castiller�a",
+    "habitantes": 19,
+    "area_m2": "51339,35105",
+    "area_km2": "0,051339351"
+  },
+  {
+    "nombre": "Hontoria de Cerrato",
+    "habitantes": 99,
+    "area_m2": "125638,0353",
+    "area_km2": "0,125638035"
+  },
+  {
+    "nombre": "Venta de Ba�os",
+    "habitantes": 5990,
+    "area_m2": "2151956,31",
+    "area_km2": "2,15195631"
+  },
+  {
+    "nombre": "Revilla de Campos",
+    "habitantes": 6,
+    "area_m2": "87394,56612",
+    "area_km2": "0,087394566"
+  },
+  {
+    "nombre": "Amayuelas de Ojeda",
+    "habitantes": 8,
+    "area_m2": "64508,24364",
+    "area_km2": "0,064508244"
+  },
+  {
+    "nombre": "Collazos de Boedo",
+    "habitantes": 66,
+    "area_m2": "78046,82147",
+    "area_km2": "0,078046821"
+  },
+  {
+    "nombre": "Tarilonte de la Pe�a",
+    "habitantes": 41,
+    "area_m2": "62298,01535",
+    "area_km2": "0,062298015"
+  },
+  {
+    "nombre": "Ribas de Campos",
+    "habitantes": 128,
+    "area_m2": "192305,1176",
+    "area_km2": "0,192305118"
+  },
+  {
+    "nombre": "Alba de Cerrato",
+    "habitantes": 82,
+    "area_m2": "226534,6058",
+    "area_km2": "0,226534606"
+  },
+  {
+    "nombre": "Quintanilla de las Torres",
+    "habitantes": 80,
+    "area_m2": "112532,32",
+    "area_km2": "0,11253232"
+  },
+  {
+    "nombre": "San Rom�n de la Cuba",
+    "habitantes": 53,
+    "area_m2": "180648,0576",
+    "area_km2": "0,180648058"
+  },
+  {
+    "nombre": "Villamart�n de Campos",
+    "habitantes": 164,
+    "area_m2": "298725,3613",
+    "area_km2": "0,298725361"
+  },
+  {
+    "nombre": "Velillas del Duque",
+    "habitantes": 21,
+    "area_m2": "67489,65032",
+    "area_km2": "0,06748965"
+  },
+  {
+    "nombre": "Villaconancio",
+    "habitantes": 50,
+    "area_m2": "98214,12672",
+    "area_km2": "0,098214127"
+  },
+  {
+    "nombre": "Manquillos",
+    "habitantes": 58,
+    "area_m2": "112196,0284",
+    "area_km2": "0,112196028"
+  },
+  {
+    "nombre": "Poblaci�n de Campos",
+    "habitantes": 122,
+    "area_m2": "275054,6932",
+    "area_km2": "0,275054693"
+  },
+  {
+    "nombre": "Valoria del Alcor",
+    "habitantes": 49,
+    "area_m2": "107085,8288",
+    "area_km2": "0,107085829"
+  },
+  {
+    "nombre": "La Serna",
+    "habitantes": 93,
+    "area_m2": "147342,3525",
+    "area_km2": "0,147342352"
+  },
+  {
+    "nombre": "Herrera de Valdeca�as",
+    "habitantes": 152,
+    "area_m2": "166246,8763",
+    "area_km2": "0,166246876"
+  },
+  {
+    "nombre": "Gramedo",
+    "habitantes": 16,
+    "area_m2": "11901,97605",
+    "area_km2": "0,011901976"
+  },
+  {
+    "nombre": "A�oza",
+    "habitantes": 19,
+    "area_m2": "91618,03501",
+    "area_km2": "0,091618035"
+  },
+  {
+    "nombre": "El Valle",
+    "habitantes": 3,
+    "area_m2": "74,28675",
+    "area_km2": "7,42867E-05"
+  },
+  {
+    "nombre": "Bustillo de Santull�n",
+    "habitantes": 23,
+    "area_m2": "36702,8783",
+    "area_km2": "0,036702878"
+  },
+  {
+    "nombre": "Lomas",
+    "habitantes": 41,
+    "area_m2": "119842,7315",
+    "area_km2": "0,119842732"
+  },
+  {
+    "nombre": "Pozancos",
+    "habitantes": 16,
+    "area_m2": "37412,18681",
+    "area_km2": "0,037412187"
+  },
+  {
+    "nombre": "Resoba",
+    "habitantes": 18,
+    "area_m2": "59220,83968",
+    "area_km2": "0,05922084"
+  },
+  {
+    "nombre": "Santiago del Val",
+    "habitantes": 6,
+    "area_m2": "37844,69995",
+    "area_km2": "0,0378447"
+  },
+  {
+    "nombre": "La Venta",
+    "habitantes": 11,
+    "area_m2": "62401,92409",
+    "area_km2": "0,062401924"
+  },
+  {
+    "nombre": "Renedo de la Inera",
+    "habitantes": 0,
+    "area_m2": "23819,45006",
+    "area_km2": "0,02381945"
+  },
+  {
+    "nombre": "Barrio de San Vicente",
+    "habitantes": 17,
+    "area_m2": "42704,3225",
+    "area_km2": "0,042704323"
+  },
+  {
+    "nombre": "Due�as",
+    "habitantes": 2460,
+    "area_m2": "918957,4889",
+    "area_km2": "0,918957489"
+  },
+  {
+    "nombre": "Moslares de la Vega",
+    "habitantes": 44,
+    "area_m2": "98564,15927",
+    "area_km2": "0,098564159"
+  },
+  {
+    "nombre": "Palacios del Alcor",
+    "habitantes": 22,
+    "area_m2": "85610,04161",
+    "area_km2": "0,085610042"
+  },
+  {
+    "nombre": "San Mart�n de Perapert�",
+    "habitantes": 27,
+    "area_m2": "24839,26795",
+    "area_km2": "0,024839268"
+  },
+  {
+    "nombre": "Vallejo de Orb�",
+    "habitantes": 88,
+    "area_m2": "189903,4897",
+    "area_km2": "0,18990349"
+  },
+  {
+    "nombre": "Villaeles de Valdavia",
+    "habitantes": 48,
+    "area_m2": "172486,5717",
+    "area_km2": "0,172486572"
+  },
+  {
+    "nombre": "Cubillo de Castrej�n",
+    "habitantes": 10,
+    "area_m2": "30801,17415",
+    "area_km2": "0,030801174"
+  },
+  {
+    "nombre": "Carda�o de Abajo",
+    "habitantes": 11,
+    "area_m2": "46272,67436",
+    "area_km2": "0,046272674"
+  },
+  {
+    "nombre": "Berzosa de los Hidalgos",
+    "habitantes": 18,
+    "area_m2": "52837,53727",
+    "area_km2": "0,052837537"
+  },
+  {
+    "nombre": "Abastas",
+    "habitantes": 34,
+    "area_m2": "120415,9048",
+    "area_km2": "0,120415905"
+  },
+  {
+    "nombre": "Villotilla",
+    "habitantes": 21,
+    "area_m2": "55126,85726",
+    "area_km2": "0,055126857"
+  },
+  {
+    "nombre": "Villaldav�n",
+    "habitantes": 38,
+    "area_m2": "88965,78637",
+    "area_km2": "0,088965786"
+  },
+  {
+    "nombre": "Matamorisca",
+    "habitantes": 37,
+    "area_m2": "68155,14017",
+    "area_km2": "0,06815514"
+  },
+  {
+    "nombre": "San Mart�n del Monte",
+    "habitantes": 12,
+    "area_m2": "23073,79236",
+    "area_km2": "0,023073792"
+  },
+  {
+    "nombre": "Villarrobejo",
+    "habitantes": 110,
+    "area_m2": "187190,8946",
+    "area_km2": "0,187190895"
+  },
+  {
+    "nombre": "Ampudia",
+    "habitantes": 512,
+    "area_m2": "469891,8632",
+    "area_km2": "0,469891863"
+  },
+  {
+    "nombre": "Barrio de San Pedro",
+    "habitantes": 9,
+    "area_m2": "42292,67291",
+    "area_km2": "0,042292673"
+  },
+  {
+    "nombre": "Camasobres",
+    "habitantes": 12,
+    "area_m2": "53918,53677",
+    "area_km2": "0,053918537"
+  },
+  {
+    "nombre": "Va�es",
+    "habitantes": 12,
+    "area_m2": "63998,53723",
+    "area_km2": "0,063998537"
+  },
+  {
+    "nombre": "Quintanilla de Corvio",
+    "habitantes": 3,
+    "area_m2": "1962,447383",
+    "area_km2": "0,001962447"
+  },
+  {
+    "nombre": "Capillas",
+    "habitantes": 72,
+    "area_m2": "170253,1332",
+    "area_km2": "0,170253133"
+  },
+  {
+    "nombre": "Lagunilla de la Vega",
+    "habitantes": 85,
+    "area_m2": "237665,1501",
+    "area_km2": "0,23766515"
+  },
+  {
+    "nombre": "Bra�osera",
+    "habitantes": 104,
+    "area_m2": "128738,6639",
+    "area_km2": "0,128738664"
+  },
+  {
+    "nombre": "Valcobero",
+    "habitantes": 13,
+    "area_m2": "21296,23522",
+    "area_km2": "0,021296235"
+  },
+  {
+    "nombre": "B�scones de Ebro",
+    "habitantes": 2,
+    "area_m2": "24850,08984",
+    "area_km2": "0,02485009"
+  },
+  {
+    "nombre": "Boada de Campos",
+    "habitantes": 16,
+    "area_m2": "70131,91623",
+    "area_km2": "0,070131916"
+  },
+  {
+    "nombre": "Pomar de Valdivia",
+    "habitantes": 65,
+    "area_m2": "123742,9033",
+    "area_km2": "0,123742903"
+  },
+  {
+    "nombre": "Santoyo",
+    "habitantes": 184,
+    "area_m2": "314481,0368",
+    "area_km2": "0,314481037"
+  },
+  {
+    "nombre": "San Cebri�n de Buena Madre",
+    "habitantes": 0,
+    "area_m2": "11217,47318",
+    "area_km2": "0,011217473"
+  },
+  {
+    "nombre": "Melgar de Yuso",
+    "habitantes": 271,
+    "area_m2": "357178,5274",
+    "area_km2": "0,357178527"
+  },
+  {
+    "nombre": "Itero Seco",
+    "habitantes": 29,
+    "area_m2": "79666,49856",
+    "area_km2": "0,079666499"
+  },
+  {
+    "nombre": "Cubillas de Cerrato",
+    "habitantes": 65,
+    "area_m2": "241267,2646",
+    "area_km2": "0,241267265"
+  },
+  {
+    "nombre": "Cuillas del Valle",
+    "habitantes": 4,
+    "area_m2": "9280,757374",
+    "area_km2": "0,009280757"
+  },
+  {
+    "nombre": "Tabanera de Cerrato",
+    "habitantes": 138,
+    "area_m2": "188033,9051",
+    "area_km2": "0,188033905"
+  },
+  {
+    "nombre": "Lagartos",
+    "habitantes": 22,
+    "area_m2": "37273,44607",
+    "area_km2": "0,037273446"
+  },
+  {
+    "nombre": "Verga�o",
+    "habitantes": 9,
+    "area_m2": "41668,27493",
+    "area_km2": "0,041668275"
+  },
+  {
+    "nombre": "Santana de la Pe�a",
+    "habitantes": 17,
+    "area_m2": "69818,7699",
+    "area_km2": "0,06981877"
+  },
+  {
+    "nombre": "Torremormoj�n",
+    "habitantes": 45,
+    "area_m2": "152934,3272",
+    "area_km2": "0,152934327"
+  },
+  {
+    "nombre": "San Pedro de Cansoles",
+    "habitantes": 10,
+    "area_m2": "57442,18343",
+    "area_km2": "0,057442183"
+  },
+  {
+    "nombre": "Amusco",
+    "habitantes": 319,
+    "area_m2": "589473,8738",
+    "area_km2": "0,589473874"
+  },
+  {
+    "nombre": "Villada",
+    "habitantes": 797,
+    "area_m2": "778484,4302",
+    "area_km2": "0,77848443"
+  },
+  {
+    "nombre": "Lastrilla",
+    "habitantes": 6,
+    "area_m2": "35695,88776",
+    "area_km2": "0,035695888"
+  },
+  {
+    "nombre": "Villavega de Ojeda",
+    "habitantes": 17,
+    "area_m2": "49158,67118",
+    "area_km2": "0,049158671"
+  },
+  {
+    "nombre": "Vidrieros",
+    "habitantes": 18,
+    "area_m2": "42005,20528",
+    "area_km2": "0,042005205"
+  },
+  {
+    "nombre": "Nuestra Se�ora de Alconada",
+    "habitantes": 6,
+    "area_m2": "26693,46596",
+    "area_km2": "0,026693466"
+  },
+  {
+    "nombre": "Valsadorn�n",
+    "habitantes": 7,
+    "area_m2": "54805,88692",
+    "area_km2": "0,054805887"
+  },
+  {
+    "nombre": "Valdeca�as de Cerrato",
+    "habitantes": 57,
+    "area_m2": "128973,8218",
+    "area_km2": "0,128973822"
+  },
+  {
+    "nombre": "Husillos",
+    "habitantes": 383,
+    "area_m2": "168639,0195",
+    "area_km2": "0,16863902"
+  },
+  {
+    "nombre": "Salda�a",
+    "habitantes": 2496,
+    "area_m2": "1246370,566",
+    "area_km2": "1,246370566"
+  },
+  {
+    "nombre": "Abarca de Campos",
+    "habitantes": 38,
+    "area_m2": "108206,6396",
+    "area_km2": "0,10820664"
+  },
+  {
+    "nombre": "Villanueva del Monte",
+    "habitantes": 21,
+    "area_m2": "31644,35271",
+    "area_km2": "0,031644353"
+  },
+  {
+    "nombre": "Dehesa de Romanos",
+    "habitantes": 47,
+    "area_m2": "83346,68174",
+    "area_km2": "0,083346682"
+  },
+  {
+    "nombre": "Altos del Sil",
+    "habitantes": 2,
+    "area_m2": "96321,83288",
+    "area_km2": "0,096321833"
+  },
+  {
+    "nombre": "Torre de los Molinos",
+    "habitantes": 23,
+    "area_m2": "56483,97271",
+    "area_km2": "0,056483973"
+  },
+  {
+    "nombre": "Ayuela",
+    "habitantes": 50,
+    "area_m2": "97759,69195",
+    "area_km2": "0,097759692"
+  },
+  {
+    "nombre": "Dehesa de Villandrando",
+    "habitantes": 22,
+    "area_m2": "37969,60445",
+    "area_km2": "0,037969604"
+  },
+  {
+    "nombre": "Dehesa de Matanzas de Abajo",
+    "habitantes": 9,
+    "area_m2": "2942,449673",
+    "area_km2": "0,00294245"
+  },
+  {
+    "nombre": "Villantodrigo",
+    "habitantes": 9,
+    "area_m2": "35487,52677",
+    "area_km2": "0,035487527"
+  },
+  {
+    "nombre": "Carda�o de Arriba",
+    "habitantes": 3,
+    "area_m2": "18051,116",
+    "area_km2": "0,018051116"
+  },
+  {
+    "nombre": "Olmos de Ojeda",
+    "habitantes": 35,
+    "area_m2": "79364,19794",
+    "area_km2": "0,079364198"
+  },
+  {
+    "nombre": "Monz�n de Campos",
+    "habitantes": 541,
+    "area_m2": "862261,8878",
+    "area_km2": "0,862261888"
+  },
+  {
+    "nombre": "Belmonte de Campos",
+    "habitantes": 30,
+    "area_m2": "128568,54",
+    "area_km2": "0,12856854"
+  },
+  {
+    "nombre": "Villabasta de Valdavia",
+    "habitantes": 32,
+    "area_m2": "57902,83666",
+    "area_km2": "0,057902837"
+  },
+  {
+    "nombre": "Fr�mista",
+    "habitantes": 747,
+    "area_m2": "742033,4813",
+    "area_km2": "0,742033481"
+  },
+  {
+    "nombre": "Villasarracino",
+    "habitantes": 133,
+    "area_m2": "209686,0239",
+    "area_km2": "0,209686024"
+  },
+  {
+    "nombre": "Villalafuente",
+    "habitantes": 39,
+    "area_m2": "38209,12566",
+    "area_km2": "0,038209126"
+  },
+  {
+    "nombre": "Cervatos de la Cueza",
+    "habitantes": 170,
+    "area_m2": "307135,6383",
+    "area_km2": "0,307135638"
+  },
+  {
+    "nombre": "Olleros de Paredes Rubias",
+    "habitantes": 19,
+    "area_m2": "44770,89403",
+    "area_km2": "0,044770894"
+  },
+  {
+    "nombre": "Baquer�n de Campos",
+    "habitantes": 21,
+    "area_m2": "113947,1109",
+    "area_km2": "0,113947111"
+  },
+  {
+    "nombre": "Osornillo",
+    "habitantes": 59,
+    "area_m2": "118196,7347",
+    "area_km2": "0,118196735"
+  },
+  {
+    "nombre": "Loma de Castrej�n",
+    "habitantes": 43,
+    "area_m2": "43442,42854",
+    "area_km2": "0,043442429"
+  },
+  {
+    "nombre": "Villamoronta",
+    "habitantes": 244,
+    "area_m2": "435167,69",
+    "area_km2": "0,43516769"
+  },
+  {
+    "nombre": "Villovieco",
+    "habitantes": 62,
+    "area_m2": "164928,3669",
+    "area_km2": "0,164928367"
+  },
+  {
+    "nombre": "N�star",
+    "habitantes": 55,
+    "area_m2": "52465,83592",
+    "area_km2": "0,052465836"
+  },
+  {
+    "nombre": "Pino de Viduerna",
+    "habitantes": 27,
+    "area_m2": "50598,27066",
+    "area_km2": "0,050598271"
+  },
+  {
+    "nombre": "Requena de Campos",
+    "habitantes": 30,
+    "area_m2": "101125,8886",
+    "area_km2": "0,101125889"
+  },
+  {
+    "nombre": "San Isidro de Due�as",
+    "habitantes": 34,
+    "area_m2": "144214,0662",
+    "area_km2": "0,144214066"
+  },
+  {
+    "nombre": "Ga�inas de la Vega",
+    "habitantes": 41,
+    "area_m2": "85895,70601",
+    "area_km2": "0,085895706"
+  },
+  {
+    "nombre": "P�ramo de Boedo",
+    "habitantes": 58,
+    "area_m2": "50702,20422",
+    "area_km2": "0,050702204"
+  },
+  {
+    "nombre": "Piedrasluengas",
+    "habitantes": 3,
+    "area_m2": "26451,67241",
+    "area_km2": "0,026451672"
+  },
+  {
+    "nombre": "Ba�os de la Pe�a",
+    "habitantes": 17,
+    "area_m2": "39480,56564",
+    "area_km2": "0,039480566"
+  },
+  {
+    "nombre": "Alar del Rey",
+    "habitantes": 691,
+    "area_m2": "754470,7417",
+    "area_km2": "0,754470742"
+  },
+  {
+    "nombre": "Villamediana",
+    "habitantes": 183,
+    "area_m2": "321878,9182",
+    "area_km2": "0,321878918"
+  },
+  {
+    "nombre": "Velilla de la Pe�a",
+    "habitantes": 54,
+    "area_m2": "89044,27329",
+    "area_km2": "0,089044273"
+  },
+  {
+    "nombre": "Porquera de los Infantes",
+    "habitantes": 40,
+    "area_m2": "66993,0661",
+    "area_km2": "0,066993066"
+  },
+  {
+    "nombre": "Esquileo de Arriba",
+    "habitantes": 0,
+    "area_m2": "6424,737849",
+    "area_km2": "0,006424738"
+  },
+  {
+    "nombre": "Riberos de la Cueza",
+    "habitantes": 54,
+    "area_m2": "119892,1717",
+    "area_km2": "0,119892172"
+  },
+  {
+    "nombre": "Calzadilla de la Cueza",
+    "habitantes": 50,
+    "area_m2": "69013,24469",
+    "area_km2": "0,069013245"
+  },
+  {
+    "nombre": "Villosilla de la Vega",
+    "habitantes": 44,
+    "area_m2": "79706,40649",
+    "area_km2": "0,079706406"
+  },
+  {
+    "nombre": "Valle de Cerrato",
+    "habitantes": 83,
+    "area_m2": "161540,9899",
+    "area_km2": "0,16154099"
+  },
+  {
+    "nombre": "Arenillas de Nu�o P�rez",
+    "habitantes": 11,
+    "area_m2": "97410,76266",
+    "area_km2": "0,097410763"
+  },
+  {
+    "nombre": "Menaza",
+    "habitantes": 17,
+    "area_m2": "41100,0073",
+    "area_km2": "0,041100007"
+  },
+  {
+    "nombre": "Villar�n de Valdivia",
+    "habitantes": 48,
+    "area_m2": "83887,58514",
+    "area_km2": "0,083887585"
+  },
+  {
+    "nombre": "Puentetoma",
+    "habitantes": 11,
+    "area_m2": "26739,28782",
+    "area_km2": "0,026739288"
+  },
+  {
+    "nombre": "San Mart�n del Obispo",
+    "habitantes": 99,
+    "area_m2": "181188,2432",
+    "area_km2": "0,181188243"
+  },
+  {
+    "nombre": "Villanueva del Rebollar",
+    "habitantes": 67,
+    "area_m2": "127237,8673",
+    "area_km2": "0,127237867"
+  },
+  {
+    "nombre": "Barcenilla de Pisuerga",
+    "habitantes": 12,
+    "area_m2": "87955,80749",
+    "area_km2": "0,087955807"
+  },
+  {
+    "nombre": "Villaturde",
+    "habitantes": 80,
+    "area_m2": "140573,1825",
+    "area_km2": "0,140573183"
+  },
+  {
+    "nombre": "Robladillo de Ucieza",
+    "habitantes": 21,
+    "area_m2": "90429,2236",
+    "area_km2": "0,090429224"
+  },
+  {
+    "nombre": "Villafruel",
+    "habitantes": 19,
+    "area_m2": "24013,59774",
+    "area_km2": "0,024013598"
+  },
+  {
+    "nombre": "Casc�n de la Nava",
+    "habitantes": 389,
+    "area_m2": "370201,464",
+    "area_km2": "0,370201464"
+  },
+  {
+    "nombre": "Villalob�n",
+    "habitantes": 1897,
+    "area_m2": "780268,7128",
+    "area_km2": "0,780268713"
+  },
+  {
+    "nombre": "San Cebri�n de Campos",
+    "habitantes": 373,
+    "area_m2": "420117,5789",
+    "area_km2": "0,420117579"
+  },
+  {
+    "nombre": "Recueva de la Pe�a",
+    "habitantes": 22,
+    "area_m2": "31207,28872",
+    "area_km2": "0,031207289"
+  },
+  {
+    "nombre": "Cantoral de la Pe�a",
+    "habitantes": 8,
+    "area_m2": "45097,25046",
+    "area_km2": "0,04509725"
+  },
+  {
+    "nombre": "Santib��ez de Ecla",
+    "habitantes": 7,
+    "area_m2": "22670,89222",
+    "area_km2": "0,022670892"
+  },
+  {
+    "nombre": "Moarves de Ojeda",
+    "habitantes": 20,
+    "area_m2": "48076,35161",
+    "area_km2": "0,048076352"
+  },
+  {
+    "nombre": "Villodrigo",
+    "habitantes": 94,
+    "area_m2": "176663,9249",
+    "area_km2": "0,176663925"
+  },
+  {
+    "nombre": "Lig��rzana",
+    "habitantes": 46,
+    "area_m2": "173913,803",
+    "area_km2": "0,173913803"
+  },
+  {
+    "nombre": "La Verdeguera",
+    "habitantes": 15,
+    "area_m2": "59714,18393",
+    "area_km2": "0,059714184"
+  },
+  {
+    "nombre": "San Mam�s de Campos",
+    "habitantes": 49,
+    "area_m2": "106858,4057",
+    "area_km2": "0,106858406"
+  },
+  {
+    "nombre": "Lebanza",
+    "habitantes": 25,
+    "area_m2": "38277,77907",
+    "area_km2": "0,038277779"
+  },
+  {
+    "nombre": "Guaza de Campos",
+    "habitantes": 56,
+    "area_m2": "213061,9367",
+    "area_km2": "0,213061937"
+  },
+  {
+    "nombre": "Aguilar de Campoo",
+    "habitantes": 6151,
+    "area_m2": "2370100,847",
+    "area_km2": "2,370100847"
+  },
+  {
+    "nombre": "Grijota",
+    "habitantes": 1487,
+    "area_m2": "937472,5446",
+    "area_km2": "0,937472545"
+  },
+  {
+    "nombre": "Los Llazos",
+    "habitantes": 4,
+    "area_m2": "22386,84558",
+    "area_km2": "0,022386846"
+  },
+  {
+    "nombre": "Frechilla",
+    "habitantes": 136,
+    "area_m2": "365733,3056",
+    "area_km2": "0,365733306"
+  },
+  {
+    "nombre": "H�rmedes de Cerrato",
+    "habitantes": 74,
+    "area_m2": "220002,1159",
+    "area_km2": "0,220002116"
+  },
+  {
+    "nombre": "Antig�edad",
+    "habitantes": 336,
+    "area_m2": "390987,9641",
+    "area_km2": "0,390987964"
+  },
+  {
+    "nombre": "Pino del R�o",
+    "habitantes": 116,
+    "area_m2": "176061,0132",
+    "area_km2": "0,176061013"
+  },
+  {
+    "nombre": "San Andr�s de Arroyo",
+    "habitantes": 7,
+    "area_m2": "27107,21261",
+    "area_km2": "0,027107213"
+  },
+  {
+    "nombre": "Helecha de Valdivia",
+    "habitantes": 19,
+    "area_m2": "77096,21579",
+    "area_km2": "0,077096216"
+  },
+  {
+    "nombre": "Castrillo de Villavega",
+    "habitantes": 167,
+    "area_m2": "338065,2388",
+    "area_km2": "0,338065239"
+  },
+  {
+    "nombre": "Ledigos",
+    "habitantes": 59,
+    "area_m2": "98492,03663",
+    "area_km2": "0,098492037"
+  },
+  {
+    "nombre": "Pi�a de Campos",
+    "habitantes": 185,
+    "area_m2": "293146,5793",
+    "area_km2": "0,293146579"
+  },
+  {
+    "nombre": "Marcilla de Campos",
+    "habitantes": 58,
+    "area_m2": "203263,916",
+    "area_km2": "0,203263916"
+  },
+  {
+    "nombre": "Ciudad Jard�n Virgen del Milagro",
+    "habitantes": 2116,
+    "area_m2": "292136,1787",
+    "area_km2": "0,292136179"
+  },
+  {
+    "nombre": "Villaneceriel de Boedo",
+    "habitantes": 11,
+    "area_m2": "22567,66815",
+    "area_km2": "0,022567668"
+  },
+  {
+    "nombre": "Pr�danos de Ojeda",
+    "habitantes": 181,
+    "area_m2": "228851,4873",
+    "area_km2": "0,228851487"
+  },
+  {
+    "nombre": "Fresno del R�o",
+    "habitantes": 166,
+    "area_m2": "151046,3545",
+    "area_km2": "0,151046354"
+  },
+  {
+    "nombre": "Goz�n de Ucieza",
+    "habitantes": 32,
+    "area_m2": "67041,71659",
+    "area_km2": "0,067041717"
+  },
+  {
+    "nombre": "Soto de Cerrato",
+    "habitantes": 168,
+    "area_m2": "179829,1909",
+    "area_km2": "0,179829191"
+  },
+  {
+    "nombre": "Autillo de Campos",
+    "habitantes": 130,
+    "area_m2": "283388,8466",
+    "area_km2": "0,283388847"
+  },
+  {
+    "nombre": "Villambr�n de Cea",
+    "habitantes": 39,
+    "area_m2": "101090,4561",
+    "area_km2": "0,101090456"
+  },
+  {
+    "nombre": "Montoto de Ojeda",
+    "habitantes": 16,
+    "area_m2": "37103,1731",
+    "area_km2": "0,037103173"
+  },
+  {
+    "nombre": "Lantadilla",
+    "habitantes": 270,
+    "area_m2": "544997,9853",
+    "area_km2": "0,544997985"
+  },
+  {
+    "nombre": "Cillamayor",
+    "habitantes": 67,
+    "area_m2": "82827,83394",
+    "area_km2": "0,082827834"
+  },
+  {
+    "nombre": "Villarmentero de Campos",
+    "habitantes": 28,
+    "area_m2": "56843,23222",
+    "area_km2": "0,056843232"
+  },
+  {
+    "nombre": "Villaluenga de la Vega",
+    "habitantes": 167,
+    "area_m2": "331322,3807",
+    "area_km2": "0,331322381"
+  },
+  {
+    "nombre": "Castromocho",
+    "habitantes": 197,
+    "area_m2": "284733,2746",
+    "area_km2": "0,284733275"
+  },
+  {
+    "nombre": "Barajores de la Pe�a",
+    "habitantes": 26,
+    "area_m2": "86923,13358",
+    "area_km2": "0,086923134"
+  },
+  {
+    "nombre": "Carbonera",
+    "habitantes": 25,
+    "area_m2": "31877,29661",
+    "area_km2": "0,031877297"
+  },
+  {
+    "nombre": "Villarrodrigo de la Vega",
+    "habitantes": 121,
+    "area_m2": "136689,0744",
+    "area_km2": "0,136689074"
+  },
+  {
+    "nombre": "Corvio",
+    "habitantes": 9,
+    "area_m2": "28059,74592",
+    "area_km2": "0,028059746"
+  },
+  {
+    "nombre": "Pis�n de Ojeda",
+    "habitantes": 3,
+    "area_m2": "20130,46432",
+    "area_km2": "0,020130464"
+  },
+  {
+    "nombre": "San Pedro de Ojeda",
+    "habitantes": 23,
+    "area_m2": "52732,87975",
+    "area_km2": "0,05273288"
+  },
+  {
+    "nombre": "Quintanilla de Onso�a",
+    "habitantes": 35,
+    "area_m2": "94373,79838",
+    "area_km2": "0,094373798"
+  },
+  {
+    "nombre": "Santa Mar�a de Nava",
+    "habitantes": 5,
+    "area_m2": "14091,30143",
+    "area_km2": "0,014091301"
+  },
+  {
+    "nombre": "Polentinos",
+    "habitantes": 41,
+    "area_m2": "56417,90021",
+    "area_km2": "0,0564179"
+  },
+  {
+    "nombre": "Perales",
+    "habitantes": 71,
+    "area_m2": "165922,6361",
+    "area_km2": "0,165922636"
+  },
+  {
+    "nombre": "Poblaci�n de Cerrato",
+    "habitantes": 100,
+    "area_m2": "154665,6138",
+    "area_km2": "0,154665614"
+  },
+  {
+    "nombre": "Villafr�a de la Pe�a",
+    "habitantes": 29,
+    "area_m2": "45281,05679",
+    "area_km2": "0,045281057"
+  },
+  {
+    "nombre": "Quintanaluengos",
+    "habitantes": 30,
+    "area_m2": "142109,6929",
+    "area_km2": "0,142109693"
+  },
+  {
+    "nombre": "Tariego de Cerrato",
+    "habitantes": 501,
+    "area_m2": "470954,1057",
+    "area_km2": "0,470954106"
+  },
+  {
+    "nombre": "Valenoso",
+    "habitantes": 15,
+    "area_m2": "22245,94183",
+    "area_km2": "0,022245942"
+  },
+  {
+    "nombre": "Valberzoso",
+    "habitantes": 21,
+    "area_m2": "35326,00774",
+    "area_km2": "0,035326008"
+  },
+  {
+    "nombre": "Villasabariego de Ucieza",
+    "habitantes": 32,
+    "area_m2": "104729,6342",
+    "area_km2": "0,104729634"
+  },
+  {
+    "nombre": "Santill�n de la Vega",
+    "habitantes": 39,
+    "area_m2": "76024,70696",
+    "area_km2": "0,076024707"
+  },
+  {
+    "nombre": "Villanueva de Henares",
+    "habitantes": 22,
+    "area_m2": "50983,21212",
+    "area_km2": "0,050983212"
+  },
+  {
+    "nombre": "Reinoso de Cerrato",
+    "habitantes": 52,
+    "area_m2": "156654,1051",
+    "area_km2": "0,156654105"
+  },
+  {
+    "nombre": "Arconada",
+    "habitantes": 44,
+    "area_m2": "127915,5187",
+    "area_km2": "0,127915519"
+  },
+  {
+    "nombre": "Villanueva de Abajo",
+    "habitantes": 12,
+    "area_m2": "67671,78116",
+    "area_km2": "0,067671781"
+  },
+  {
+    "nombre": "Villarmienzo",
+    "habitantes": 45,
+    "area_m2": "53237,75497",
+    "area_km2": "0,053237755"
+  },
+  {
+    "nombre": "Barrio de San Pedro",
+    "habitantes": 23,
+    "area_m2": "22726,54475",
+    "area_km2": "0,022726545"
+  },
+  {
+    "nombre": "Santib��ez de la Pe�a",
+    "habitantes": 336,
+    "area_m2": "85071,85112",
+    "area_km2": "0,085071851"
+  },
+  {
+    "nombre": "Itero de la Vega",
+    "habitantes": 143,
+    "area_m2": "179894,3147",
+    "area_km2": "0,179894315"
+  },
+  {
+    "nombre": "Mazuecos de Valdeginate",
+    "habitantes": 79,
+    "area_m2": "135460,4009",
+    "area_km2": "0,135460401"
+  },
+  {
+    "nombre": "Portillejo",
+    "habitantes": 15,
+    "area_m2": "64075,65845",
+    "area_km2": "0,064075658"
+  },
+  {
+    "nombre": "Renedo de Zalima",
+    "habitantes": 22,
+    "area_m2": "49627,48255",
+    "area_km2": "0,049627483"
+  },
+  {
+    "nombre": "San Quirce del R�o Pisuerga",
+    "habitantes": 36,
+    "area_m2": "63072,61089",
+    "area_km2": "0,063072611"
+  },
+  {
+    "nombre": "Revilla de Collazos",
+    "habitantes": 75,
+    "area_m2": "120774,488",
+    "area_km2": "0,120774488"
+  },
+  {
+    "nombre": "Guardo",
+    "habitantes": 5404,
+    "area_m2": "1854312,413",
+    "area_km2": "1,854312413"
+  },
+  {
+    "nombre": "Pedraza de Campos",
+    "habitantes": 69,
+    "area_m2": "237730,7071",
+    "area_km2": "0,237730707"
+  },
+  {
+    "nombre": "Valcabadillo",
+    "habitantes": 26,
+    "area_m2": "79062,64468",
+    "area_km2": "0,079062645"
+  },
+  {
+    "nombre": "Villameriel",
+    "habitantes": 58,
+    "area_m2": "128467,9695",
+    "area_km2": "0,128467969"
+  },
+  {
+    "nombre": "Pis�n de Castrej�n",
+    "habitantes": 32,
+    "area_m2": "81990,87687",
+    "area_km2": "0,081990877"
+  },
+  {
+    "nombre": "Villorquite de Herrera",
+    "habitantes": 17,
+    "area_m2": "61217,08539",
+    "area_km2": "0,061217085"
+  },
+  {
+    "nombre": "Roscales de la Pe�a",
+    "habitantes": 38,
+    "area_m2": "68525,44598",
+    "area_km2": "0,068525446"
+  },
+  {
+    "nombre": "Santa Mar�a de Redondo",
+    "habitantes": 43,
+    "area_m2": "72211,24115",
+    "area_km2": "0,072211241"
+  },
+  {
+    "nombre": "Payo de Ojeda",
+    "habitantes": 57,
+    "area_m2": "138117,5946",
+    "area_km2": "0,138117595"
+  },
+  {
+    "nombre": "Rebanal de las Llantas",
+    "habitantes": 14,
+    "area_m2": "57580,70517",
+    "area_km2": "0,057580705"
+  },
+  {
+    "nombre": "San Cebri�n de Mud�",
+    "habitantes": 80,
+    "area_m2": "91348,54337",
+    "area_km2": "0,091348543"
+  },
+  {
+    "nombre": "Barrios de la Vega",
+    "habitantes": 108,
+    "area_m2": "285802,3656",
+    "area_km2": "0,285802366"
+  },
+  {
+    "nombre": "Cervera de Pisuerga",
+    "habitantes": 1666,
+    "area_m2": "782706,4032",
+    "area_km2": "0,782706403"
+  },
+  {
+    "nombre": "Lomilla de Aguilar",
+    "habitantes": 43,
+    "area_m2": "65173,94111",
+    "area_km2": "0,065173941"
+  },
+  {
+    "nombre": "Barrio Helechar",
+    "habitantes": 5,
+    "area_m2": "23784,87655",
+    "area_km2": "0,023784877"
+  },
+  {
+    "nombre": "Villamuera de la Cueza",
+    "habitantes": 37,
+    "area_m2": "100542,3739",
+    "area_km2": "0,100542374"
+  },
+  {
+    "nombre": "Tremaya",
+    "habitantes": 15,
+    "area_m2": "37784,35386",
+    "area_km2": "0,037784354"
+  },
+  {
+    "nombre": "Cordovilla de Aguilar",
+    "habitantes": 20,
+    "area_m2": "24043,67164",
+    "area_km2": "0,024043672"
+  },
+  {
+    "nombre": "Relea de la Loma",
+    "habitantes": 22,
+    "area_m2": "93605,88757",
+    "area_km2": "0,093605888"
+  },
+  {
+    "nombre": "Nogales de Pisuerga",
+    "habitantes": 97,
+    "area_m2": "153809,7259",
+    "area_km2": "0,153809726"
+  },
+  {
+    "nombre": "Mi�anes",
+    "habitantes": 16,
+    "area_m2": "66847,99644",
+    "area_km2": "0,066847996"
+  },
+  {
+    "nombre": "El Campo",
+    "habitantes": 13,
+    "area_m2": "23469,93801",
+    "area_km2": "0,023469938"
+  },
+  {
+    "nombre": "Amayuelas de Abajo",
+    "habitantes": 35,
+    "area_m2": "66034,38132",
+    "area_km2": "0,066034381"
+  },
+  {
+    "nombre": "Barruelo de Santull�n",
+    "habitantes": 893,
+    "area_m2": "707466,2448",
+    "area_km2": "0,707466245"
+  },
+  {
+    "nombre": "Villanu�o de Valdavia",
+    "habitantes": 80,
+    "area_m2": "99750,22086",
+    "area_km2": "0,099750221"
+  },
+  {
+    "nombre": "Villorquite del P�ramo",
+    "habitantes": 13,
+    "area_m2": "29884,8958",
+    "area_km2": "0,029884896"
+  },
+  {
+    "nombre": "Palenzuela",
+    "habitantes": 213,
+    "area_m2": "232181,5157",
+    "area_km2": "0,232181516"
+  },
+  {
+    "nombre": "Salcedillo",
+    "habitantes": 18,
+    "area_m2": "58543,30338",
+    "area_km2": "0,058543303"
+  },
+  {
+    "nombre": "Calabazanos",
+    "habitantes": 1851,
+    "area_m2": "326614,5227",
+    "area_km2": "0,326614523"
+  },
+  {
+    "nombre": "Villemar",
+    "habitantes": 21,
+    "area_m2": "67868,06275",
+    "area_km2": "0,067868063"
+  },
+  {
+    "nombre": "Cozuelos de Ojeda",
+    "habitantes": 29,
+    "area_m2": "73017,85525",
+    "area_km2": "0,073017855"
+  },
+  {
+    "nombre": "Villarrab�",
+    "habitantes": 37,
+    "area_m2": "76063,68019",
+    "area_km2": "0,07606368"
+  },
+  {
+    "nombre": "Bustillo de la Vega",
+    "habitantes": 138,
+    "area_m2": "363012,4635",
+    "area_km2": "0,363012464"
+  },
+  {
+    "nombre": "Espinosa de Villagonzalo",
+    "habitantes": 155,
+    "area_m2": "241939,0765",
+    "area_km2": "0,241939076"
+  },
+  {
+    "nombre": "Viduerna de la Pe�a",
+    "habitantes": 17,
+    "area_m2": "46031,81679",
+    "area_km2": "0,046031817"
+  },
+  {
+    "nombre": "Castrillejo de la Olma",
+    "habitantes": 6,
+    "area_m2": "82114,61423",
+    "area_km2": "0,082114614"
+  },
+  {
+    "nombre": "Poza de la Vega",
+    "habitantes": 166,
+    "area_m2": "303615,5297",
+    "area_km2": "0,30361553"
+  },
+  {
+    "nombre": "Verde�a",
+    "habitantes": 7,
+    "area_m2": "42463,34337",
+    "area_km2": "0,042463343"
+  },
+  {
+    "nombre": "Foldada",
+    "habitantes": 16,
+    "area_m2": "12584,72994",
+    "area_km2": "0,01258473"
+  },
+  {
+    "nombre": "Villaviudas",
+    "habitantes": 365,
+    "area_m2": "350452,8695",
+    "area_km2": "0,350452869"
+  },
+  {
+    "nombre": "Villafruela",
+    "habitantes": 4,
+    "area_m2": "24404,90226",
+    "area_km2": "0,024404902"
+  },
+  {
+    "nombre": "Paredes de Nava",
+    "habitantes": 1878,
+    "area_m2": "1225828,812",
+    "area_km2": "1,225828812"
+  },
+  {
+    "nombre": "Villallano",
+    "habitantes": 50,
+    "area_m2": "63815,92251",
+    "area_km2": "0,063815923"
+  },
+  {
+    "nombre": "Ventosa de Pisuerga",
+    "habitantes": 62,
+    "area_m2": "118710,7797",
+    "area_km2": "0,11871078"
+  },
+  {
+    "nombre": "Villarramiel",
+    "habitantes": 788,
+    "area_m2": "769493,493",
+    "area_km2": "0,769493493"
+  },
+  {
+    "nombre": "Tabanera de Valdavia",
+    "habitantes": 23,
+    "area_m2": "62413,629",
+    "area_km2": "0,062413629"
+  },
+  {
+    "nombre": "Valoria de Aguilar",
+    "habitantes": 46,
+    "area_m2": "36785,41884",
+    "area_km2": "0,036785419"
+  },
+  {
+    "nombre": "Avi�ante de la Pe�a",
+    "habitantes": 35,
+    "area_m2": "79508,14875",
+    "area_km2": "0,079508149"
+  },
+  {
+    "nombre": "Villasur",
+    "habitantes": 12,
+    "area_m2": "43449,23431",
+    "area_km2": "0,043449234"
+  },
+  {
+    "nombre": "San Andr�s de la Regla",
+    "habitantes": 45,
+    "area_m2": "101462,2045",
+    "area_km2": "0,101462204"
+  },
+  {
+    "nombre": "Membrillar",
+    "habitantes": 43,
+    "area_m2": "48034,98274",
+    "area_km2": "0,048034983"
+  },
+  {
+    "nombre": "Santa Cruz del Monte",
+    "habitantes": 6,
+    "area_m2": "18711,72509",
+    "area_km2": "0,018711725"
+  },
+  {
+    "nombre": "Acera de la Vega",
+    "habitantes": 72,
+    "area_m2": "115610,0903",
+    "area_km2": "0,11561009"
+  },
+  {
+    "nombre": "Rayaces",
+    "habitantes": 8,
+    "area_m2": "11634,75624",
+    "area_km2": "0,011634756"
+  },
+  {
+    "nombre": "Quintana del Puente",
+    "habitantes": 225,
+    "area_m2": "345181,5033",
+    "area_km2": "0,345181503"
+  },
+  {
+    "nombre": "Grijera",
+    "habitantes": 14,
+    "area_m2": "28295,3549",
+    "area_km2": "0,028295355"
+  },
+  {
+    "nombre": "Valderr�bano",
+    "habitantes": 33,
+    "area_m2": "71751,86259",
+    "area_km2": "0,071751863"
+  },
+  {
+    "nombre": "Calahorra de Boedo",
+    "habitantes": 83,
+    "area_m2": "135511,3896",
+    "area_km2": "0,13551139"
+  },
+  {
+    "nombre": "Valbuena de Pisuerga",
+    "habitantes": 46,
+    "area_m2": "101082,8861",
+    "area_km2": "0,101082886"
+  },
+  {
+    "nombre": "Santillana de Campos",
+    "habitantes": 72,
+    "area_m2": "242136,87",
+    "area_km2": "0,24213687"
+  },
+  {
+    "nombre": "Poblaci�n de Arroyo",
+    "habitantes": 28,
+    "area_m2": "59048,6705",
+    "area_km2": "0,059048671"
+  },
+  {
+    "nombre": "Canduela",
+    "habitantes": 29,
+    "area_m2": "77082,53057",
+    "area_km2": "0,077082531"
+  },
+  {
+    "nombre": "Vega de Bur",
+    "habitantes": 22,
+    "area_m2": "58230,15613",
+    "area_km2": "0,058230156"
+  },
+  {
+    "nombre": "Lobera de la Vega",
+    "habitantes": 66,
+    "area_m2": "80341,80586",
+    "area_km2": "0,080341806"
+  },
+  {
+    "nombre": "Astudillo",
+    "habitantes": 1006,
+    "area_m2": "859240,9864",
+    "area_km2": "0,859240986"
+  },
+  {
+    "nombre": "Villabellaco",
+    "habitantes": 13,
+    "area_m2": "44332,89818",
+    "area_km2": "0,044332898"
+  },
+  {
+    "nombre": "Fuentes de Valdepero",
+    "habitantes": 482,
+    "area_m2": "369113,2575",
+    "area_km2": "0,369113257"
+  },
+  {
+    "nombre": "Villaproviano",
+    "habitantes": 51,
+    "area_m2": "120914,1438",
+    "area_km2": "0,120914144"
+  },
+  {
+    "nombre": "Arbejal",
+    "habitantes": 131,
+    "area_m2": "136626,2872",
+    "area_km2": "0,136626287"
+  },
+  {
+    "nombre": "Villaherreros",
+    "habitantes": 203,
+    "area_m2": "385121,4498",
+    "area_km2": "0,38512145"
+  },
+  {
+    "nombre": "Villanueva del R�o",
+    "habitantes": 24,
+    "area_m2": "125684,8771",
+    "area_km2": "0,125684877"
+  },
+  {
+    "nombre": "Quintanatello de Ojeda",
+    "habitantes": 26,
+    "area_m2": "92018,84847",
+    "area_km2": "0,092018848"
+  },
+  {
+    "nombre": "Congosto de Valdavia",
+    "habitantes": 119,
+    "area_m2": "166267,4368",
+    "area_km2": "0,166267437"
+  },
+  {
+    "nombre": "Abia de las Torres",
+    "habitantes": 170,
+    "area_m2": "216102,769",
+    "area_km2": "0,216102769"
+  },
+  {
+    "nombre": "Villalba de Guardo",
+    "habitantes": 191,
+    "area_m2": "231949,1602",
+    "area_km2": "0,23194916"
+  },
+  {
+    "nombre": "Olleros de Pisuerga",
+    "habitantes": 49,
+    "area_m2": "70433,80311",
+    "area_km2": "0,070433803"
+  },
+  {
+    "nombre": "Nogal de las Huertas",
+    "habitantes": 30,
+    "area_m2": "55307,84103",
+    "area_km2": "0,055307841"
+  },
+  {
+    "nombre": "Cabria",
+    "habitantes": 42,
+    "area_m2": "50616,19719",
+    "area_km2": "0,050616197"
+  },
+  {
+    "nombre": "Villodre",
+    "habitantes": 24,
+    "area_m2": "105742,805",
+    "area_km2": "0,105742805"
+  },
+  {
+    "nombre": "B�scones de Valdivia",
+    "habitantes": 17,
+    "area_m2": "24046,04024",
+    "area_km2": "0,02404604"
+  },
+  {
+    "nombre": "Villalumbroso",
+    "habitantes": 53,
+    "area_m2": "173540,7987",
+    "area_km2": "0,173540799"
+  },
+  {
+    "nombre": "Verbios",
+    "habitantes": 13,
+    "area_m2": "25337,92912",
+    "area_km2": "0,025337929"
+  },
+  {
+    "nombre": "Rueda de Pisuerga",
+    "habitantes": 53,
+    "area_m2": "98792,00758",
+    "area_km2": "0,098792008"
+  },
+  {
+    "nombre": "Moratinos",
+    "habitantes": 27,
+    "area_m2": "47037,90088",
+    "area_km2": "0,047037901"
+  },
+  {
+    "nombre": "Villanueva de los Nabos",
+    "habitantes": 24,
+    "area_m2": "43438,07397",
+    "area_km2": "0,043438074"
+  },
+  {
+    "nombre": "Revilla de Pomar",
+    "habitantes": 30,
+    "area_m2": "95696,80488",
+    "area_km2": "0,095696805"
+  },
+  {
+    "nombre": "Valles de Valdavia",
+    "habitantes": 13,
+    "area_m2": "47659,64525",
+    "area_km2": "0,047659645"
+  },
+  {
+    "nombre": "Nava de Santull�n",
+    "habitantes": 18,
+    "area_m2": "58306,99474",
+    "area_km2": "0,058306995"
+  },
+  {
+    "nombre": "Are�os",
+    "habitantes": 6,
+    "area_m2": "30552,63496",
+    "area_km2": "0,030552635"
+  },
+  {
+    "nombre": "Villalc�n",
+    "habitantes": 48,
+    "area_m2": "123080,2371",
+    "area_km2": "0,123080237"
+  },
+  {
+    "nombre": "Rabanal de los Caballeros",
+    "habitantes": 14,
+    "area_m2": "45599,07714",
+    "area_km2": "0,045599077"
+  },
+  {
+    "nombre": "Villah�n",
+    "habitantes": 99,
+    "area_m2": "208620,2256",
+    "area_km2": "0,208620226"
+  },
+  {
+    "nombre": "Torquemada",
+    "habitantes": 940,
+    "area_m2": "928886,8703",
+    "area_km2": "0,92888687"
+  },
+  {
+    "nombre": "Micieces de Ojeda",
+    "habitantes": 53,
+    "area_m2": "89648,25128",
+    "area_km2": "0,089648251"
+  },
+  {
+    "nombre": "Vallespinoso de Aguilar",
+    "habitantes": 22,
+    "area_m2": "58252,84236",
+    "area_km2": "0,058252842"
+  },
+  {
+    "nombre": "Cevico Navero",
+    "habitantes": 178,
+    "area_m2": "199901,3382",
+    "area_km2": "0,199901338"
+  },
+  {
+    "nombre": "T�mara de Campos",
+    "habitantes": 74,
+    "area_m2": "320761,6909",
+    "area_km2": "0,320761691"
+  },
+  {
+    "nombre": "Villalc�zar de Sirga",
+    "habitantes": 174,
+    "area_m2": "253250,6341",
+    "area_km2": "0,253250634"
+  },
+  {
+    "nombre": "Zorita del P�ramo",
+    "habitantes": 29,
+    "area_m2": "46295,63713",
+    "area_km2": "0,046295637"
+  },
+  {
+    "nombre": "Valdespina",
+    "habitantes": 87,
+    "area_m2": "130551,9493",
+    "area_km2": "0,130551949"
+  },
+  {
+    "nombre": "Villaoliva de la Pe�a",
+    "habitantes": 17,
+    "area_m2": "70797,08538",
+    "area_km2": "0,070797085"
+  },
+  {
+    "nombre": "San Mart�n del Valle",
+    "habitantes": 24,
+    "area_m2": "84995,29581",
+    "area_km2": "0,084995296"
+  },
+  {
+    "nombre": "Villacuende",
+    "habitantes": 22,
+    "area_m2": "79374,67686",
+    "area_km2": "0,079374677"
+  },
+  {
+    "nombre": "Dehesilla",
+    "habitantes": 3,
+    "area_m2": "7174,858851",
+    "area_km2": "0,007174859"
+  },
+  {
+    "nombre": "Santa Mar�a de Mave",
+    "habitantes": 21,
+    "area_m2": "102569,6065",
+    "area_km2": "0,102569607"
+  },
+  {
+    "nombre": "Villelga",
+    "habitantes": 6,
+    "area_m2": "78967,4318",
+    "area_km2": "0,078967432"
+  },
+  {
+    "nombre": "Villoldo",
+    "habitantes": 303,
+    "area_m2": "415363,0942",
+    "area_km2": "0,415363094"
+  },
+  {
+    "nombre": "Polvorosa de Valdavia",
+    "habitantes": 34,
+    "area_m2": "63860,58095",
+    "area_km2": "0,063860581"
+  },
+  {
+    "nombre": "Intorcisa",
+    "habitantes": 49,
+    "area_m2": "133386,5897",
+    "area_km2": "0,13338659"
+  },
+  {
+    "nombre": "Palencia",
+    "habitantes": 74412,
+    "area_m2": "10941015,95",
+    "area_km2": "10,94101595"
+  },
+  {
+    "nombre": "Renedo de la Vega",
+    "habitantes": 67,
+    "area_m2": "133006,988",
+    "area_km2": "0,133006988"
+  },
+  {
+    "nombre": "Barrio de Santa Mar�a",
+    "habitantes": 16,
+    "area_m2": "24213,61445",
+    "area_km2": "0,024213614"
+  },
+  {
+    "nombre": "Esquileo de Abajo",
+    "habitantes": 0,
+    "area_m2": "6239,013218",
+    "area_km2": "0,006239013"
+  },
+  {
+    "nombre": "Naveros de Pisuerga",
+    "habitantes": 23,
+    "area_m2": "91379,60496",
+    "area_km2": "0,091379605"
+  },
+  {
+    "nombre": "Espinosa de Cerrato",
+    "habitantes": 123,
+    "area_m2": "228525,7154",
+    "area_km2": "0,228525715"
+  },
+  {
+    "nombre": "Fontecha de la Pe�a",
+    "habitantes": 18,
+    "area_m2": "76950,57576",
+    "area_km2": "0,076950576"
+  },
+  {
+    "nombre": "Fuentes de Nava",
+    "habitantes": 565,
+    "area_m2": "695502,7849",
+    "area_km2": "0,695502785"
+  },
+  {
+    "nombre": "Renedo de Valdavia",
+    "habitantes": 33,
+    "area_m2": "101928,0082",
+    "area_km2": "0,101928008"
+  },
+  {
+    "nombre": "Berzosilla",
+    "habitantes": 22,
+    "area_m2": "51724,72139",
+    "area_km2": "0,051724721"
+  },
+  {
+    "nombre": "Fuente Andrino",
+    "habitantes": 9,
+    "area_m2": "23679,88315",
+    "area_km2": "0,023679883"
+  },
+  {
+    "nombre": "Quintanilla de la Cueza",
+    "habitantes": 21,
+    "area_m2": "62428,9786",
+    "area_km2": "0,062428979"
+  },
+  {
+    "nombre": "Matalbaniega",
+    "habitantes": 5,
+    "area_m2": "21994,36593",
+    "area_km2": "0,021994366"
+  },
+  {
+    "nombre": "Perapert�",
+    "habitantes": 15,
+    "area_m2": "8636,331676",
+    "area_km2": "0,008636332"
+  },
+  {
+    "nombre": "Santa Olaja de la Vega",
+    "habitantes": 87,
+    "area_m2": "105274,2932",
+    "area_km2": "0,105274293"
+  },
+  {
+    "nombre": "Abastillas",
+    "habitantes": 2,
+    "area_m2": "26202,93429",
+    "area_km2": "0,026202934"
+  },
+  {
+    "nombre": "Celadilla del R�o",
+    "habitantes": 47,
+    "area_m2": "134998,6417",
+    "area_km2": "0,134998642"
+  },
+  {
+    "nombre": "Riosmenudos de la Pe�a",
+    "habitantes": 22,
+    "area_m2": "141948,129",
+    "area_km2": "0,141948129"
+  },
+  {
+    "nombre": "Zona Residencial Camponecha",
+    "habitantes": 9,
+    "area_m2": "76601,96098",
+    "area_km2": "0,076601961"
+  },
+  {
+    "nombre": "Mazariegos",
+    "habitantes": 201,
+    "area_m2": "231569,3487",
+    "area_km2": "0,231569349"
+  },
+  {
+    "nombre": "Matabuena",
+    "habitantes": 8,
+    "area_m2": "26423,29487",
+    "area_km2": "0,026423295"
+  },
+  {
+    "nombre": "Herrera de Pisuerga",
+    "habitantes": 1711,
+    "area_m2": "952126,4763",
+    "area_km2": "0,952126476"
+  },
+  {
+    "nombre": "Villabermudo",
+    "habitantes": 49,
+    "area_m2": "160320,4185",
+    "area_km2": "0,160320418"
+  },
+  {
+    "nombre": "Villalbeto de la Pe�a",
+    "habitantes": 14,
+    "area_m2": "59788,37767",
+    "area_km2": "0,059788378"
+  },
+  {
+    "nombre": "Camporredondo de Alba",
+    "habitantes": 78,
+    "area_m2": "132759,9444",
+    "area_km2": "0,132759944"
+  },
+  {
+    "nombre": "Renedo del Monte",
+    "habitantes": 9,
+    "area_m2": "15009,63432",
+    "area_km2": "0,015009634"
+  },
+  {
+    "nombre": "Carri�n de los Condes",
+    "habitantes": 1896,
+    "area_m2": "1022550,661",
+    "area_km2": "1,022550661"
+  },
+  {
+    "nombre": "Valdegama",
+    "habitantes": 6,
+    "area_m2": "19159,78678",
+    "area_km2": "0,019159787"
+  },
+  {
+    "nombre": "Traspe�a de la Pe�a",
+    "habitantes": 11,
+    "area_m2": "27757,19054",
+    "area_km2": "0,027757191"
+  },
+  {
+    "nombre": "San Juan de Redondo",
+    "habitantes": 31,
+    "area_m2": "67782,94301",
+    "area_km2": "0,067782943"
+  },
+  {
+    "nombre": "Las Heras de la Pe�a",
+    "habitantes": 114,
+    "area_m2": "353138,2625",
+    "area_km2": "0,353138263"
+  },
+  {
+    "nombre": "Velilla del R�o Carri�n",
+    "habitantes": 920,
+    "area_m2": "569969,3819",
+    "area_km2": "0,569969382"
+  },
+  {
+    "nombre": "Cubillo de Ojeda",
+    "habitantes": 8,
+    "area_m2": "42268,53599",
+    "area_km2": "0,042268536"
+  },
+  {
+    "nombre": "Castrillo de Onielo",
+    "habitantes": 91,
+    "area_m2": "158397,1599",
+    "area_km2": "0,15839716"
+  },
+  {
+    "nombre": "Dehesa de Montejo",
+    "habitantes": 45,
+    "area_m2": "50770,76886",
+    "area_km2": "0,050770769"
+  },
+  {
+    "nombre": "Revilla de Santull�n",
+    "habitantes": 24,
+    "area_m2": "60944,82258",
+    "area_km2": "0,060944823"
+  },
+  {
+    "nombre": "Villamuriel de Cerrato",
+    "habitantes": 1283,
+    "area_m2": "421663,6915",
+    "area_km2": "0,421663692"
+  },
+  {
+    "nombre": "Castrej�n de la Pe�a",
+    "habitantes": 142,
+    "area_m2": "187333,8811",
+    "area_km2": "0,187333881"
+  },
+  {
+    "nombre": "Arenillas de San Pelayo",
+    "habitantes": 44,
+    "area_m2": "119133,4553",
+    "area_km2": "0,119133455"
+  },
+  {
+    "nombre": "Vega de Do�a Olimpa",
+    "habitantes": 31,
+    "area_m2": "69930,2448",
+    "area_km2": "0,069930245"
+  },
+  {
+    "nombre": "Triollo",
+    "habitantes": 27,
+    "area_m2": "74406,70833",
+    "area_km2": "0,074406708"
+  },
+  {
+    "nombre": "Boadilla del Camino",
+    "habitantes": 115,
+    "area_m2": "254935,3052",
+    "area_km2": "0,254935305"
+  },
+  {
+    "nombre": "Cobos de Cerrato",
+    "habitantes": 122,
+    "area_m2": "204118,3439",
+    "area_km2": "0,204118344"
+  },
+  {
+    "nombre": "Vertavillo",
+    "habitantes": 162,
+    "area_m2": "281781,6037",
+    "area_km2": "0,281781604"
+  },
+  {
+    "nombre": "Amayuelas de Arriba",
+    "habitantes": 38,
+    "area_m2": "85529,26566",
+    "area_km2": "0,085529266"
+  },
+  {
+    "nombre": "Villanueva de Arriba",
+    "habitantes": 129,
+    "area_m2": "173941,9105",
+    "area_km2": "0,173941911"
+  },
+  {
+    "nombre": "Villacibio",
+    "habitantes": 7,
+    "area_m2": "14343,85156",
+    "area_km2": "0,014343852"
+  },
+  {
+    "nombre": "La Estaci�n",
+    "habitantes": 39,
+    "area_m2": "63646,765",
+    "area_km2": "0,063646765"
+  },
+  {
+    "nombre": "Santa Cruz de Boedo",
+    "habitantes": 35,
+    "area_m2": "70583,72576",
+    "area_km2": "0,070583726"
+  },
+  {
+    "nombre": "Otero de Guardo",
+    "habitantes": 59,
+    "area_m2": "70046,29937",
+    "area_km2": "0,070046299"
+  },
+  {
+    "nombre": "Respenda de la Pe�a",
+    "habitantes": 39,
+    "area_m2": "121452,8667",
+    "area_km2": "0,121452867"
+  },
+  {
+    "nombre": "Orb�",
+    "habitantes": 11,
+    "area_m2": "19359,76568",
+    "area_km2": "0,019359766"
+  },
+  {
+    "nombre": "Villanueva de la Pe�a",
+    "habitantes": 12,
+    "area_m2": "41481,92762",
+    "area_km2": "0,041481928"
+  },
+  {
+    "nombre": "Paredes de Monte",
+    "habitantes": 0,
+    "area_m2": "105072,4629",
+    "area_km2": "0,105072463"
+  },
+  {
+    "nombre": "San Salvador de Cantamuda",
+    "habitantes": 104,
+    "area_m2": "176118,4645",
+    "area_km2": "0,176118465"
+  },
+  {
+    "nombre": "Magaz de Pisuerga",
+    "habitantes": 1027,
+    "area_m2": "470169,4746",
+    "area_km2": "0,470169475"
+  },
+  {
+    "nombre": "Villaumbrales",
+    "habitantes": 228,
+    "area_m2": "227578,3152",
+    "area_km2": "0,227578315"
+  },
+  {
+    "nombre": "Villap�n",
+    "habitantes": 54,
+    "area_m2": "117905,6028",
+    "area_km2": "0,117905603"
+  },
+  {
+    "nombre": "Puebla de San Vicente",
+    "habitantes": 32,
+    "area_m2": "51822,21976",
+    "area_km2": "0,05182222"
+  },
+  {
+    "nombre": "Vallespinoso de Cervera",
+    "habitantes": 19,
+    "area_m2": "39167,61359",
+    "area_km2": "0,039167614"
+  },
+  {
+    "nombre": "Ventanilla",
+    "habitantes": 33,
+    "area_m2": "79833,35384",
+    "area_km2": "0,079833354"
+  },
+  {
+    "nombre": "Santib��ez de Resoba",
+    "habitantes": 14,
+    "area_m2": "47218,52442",
+    "area_km2": "0,047218524"
+  },
+  {
+    "nombre": "Becerril de Campos",
+    "habitantes": 743,
+    "area_m2": "703615,7121",
+    "area_km2": "0,703615712"
+  },
+  {
+    "nombre": "Villota del Duque",
+    "habitantes": 41,
+    "area_m2": "102969,1462",
+    "area_km2": "0,102969146"
+  },
+  {
+    "nombre": "Dehesa de San Salvador del Moral",
+    "habitantes": 2,
+    "area_m2": "18725,49736",
+    "area_km2": "0,018725497"
+  },
+  {
+    "nombre": "Villacidaler",
+    "habitantes": 46,
+    "area_m2": "164344,7927",
+    "area_km2": "0,164344793"
+  },
+  {
+    "nombre": "Sotoba�ado y Priorato",
+    "habitantes": 146,
+    "area_m2": "117512,2423",
+    "area_km2": "0,117512242"
+  },
+  {
+    "nombre": "Hijosa de Boedo",
+    "habitantes": 17,
+    "area_m2": "30417,09587",
+    "area_km2": "0,030417096"
+  },
+  {
+    "nombre": "Valdeolmillos",
+    "habitantes": 57,
+    "area_m2": "108124,8061",
+    "area_km2": "0,108124806"
+  },
+  {
+    "nombre": "San Felices de Castiller�a",
+    "habitantes": 8,
+    "area_m2": "58746,01731",
+    "area_km2": "0,058746017"
+  },
+  {
+    "nombre": "Villota del P�ramo",
+    "habitantes": 115,
+    "area_m2": "247813,8719",
+    "area_km2": "0,247813872"
+  },
+  {
+    "nombre": "Buenavista de Valdavia",
+    "habitantes": 164,
+    "area_m2": "380879,3426",
+    "area_km2": "0,380879343"
+  },
+  {
+    "nombre": "Oteros de Boedo",
+    "habitantes": 33,
+    "area_m2": "61857,86103",
+    "area_km2": "0,061857861"
+  },
+  {
+    "nombre": "Mave",
+    "habitantes": 53,
+    "area_m2": "91322,73709",
+    "area_km2": "0,091322737"
+  },
+  {
+    "nombre": "Bustillo del P�ramo",
+    "habitantes": 56,
+    "area_m2": "91031,30919",
+    "area_km2": "0,091031309"
+  },
+  {
+    "nombre": "Mu�eca",
+    "habitantes": 87,
+    "area_m2": "79925,79641",
+    "area_km2": "0,079925796"
+  },
+  {
+    "nombre": "Villalaco",
+    "habitantes": 57,
+    "area_m2": "121137,6377",
+    "area_km2": "0,121137638"
+  },
+  {
+    "nombre": "San Crist�bal de Boedo",
+    "habitantes": 20,
+    "area_m2": "52785,63339",
+    "area_km2": "0,052785633"
+  },
+  {
+    "nombre": "Las Caba�as de Castilla",
+    "habitantes": 16,
+    "area_m2": "97128,45422",
+    "area_km2": "0,097128454"
+  },
+  {
+    "nombre": "Meneses de Campos",
+    "habitantes": 101,
+    "area_m2": "284911,8547",
+    "area_km2": "0,284911855"
+  },
+  {
+    "nombre": "B�rcena de Campos",
+    "habitantes": 53,
+    "area_m2": "135187,2547",
+    "area_km2": "0,135187255"
+  },
+  {
+    "nombre": "Pedrosa de la Vega",
+    "habitantes": 51,
+    "area_m2": "80641,8478",
+    "area_km2": "0,080641848"
+  },
+  {
+    "nombre": "Santerv�s de la Vega",
+    "habitantes": 238,
+    "area_m2": "338987,8668",
+    "area_km2": "0,338987867"
+  },
+  {
+    "nombre": "San Llorente del P�ramo",
+    "habitantes": 52,
+    "area_m2": "136233,4388",
+    "area_km2": "0,136233439"
+  },
+  {
+    "nombre": "Ba�os de Cerrato",
+    "habitantes": 304,
+    "area_m2": "237528,7804",
+    "area_km2": "0,23752878"
+  },
+  {
+    "nombre": "Cordovilla la Real",
+    "habitantes": 96,
+    "area_m2": "156583,8394",
+    "area_km2": "0,156583839"
+  },
+  {
+    "nombre": "Boedo de Castrej�n",
+    "habitantes": 2,
+    "area_m2": "1010,997118",
+    "area_km2": "0,001010997"
+  },
+  {
+    "nombre": "Villaverde de la Pe�a",
+    "habitantes": 62,
+    "area_m2": "107472,9906",
+    "area_km2": "0,107472991"
+  },
+  {
+    "nombre": "Mud�",
+    "habitantes": 80,
+    "area_m2": "141037,7608",
+    "area_km2": "0,141037761"
+  },
+  {
+    "nombre": "Valle de Santull�n",
+    "habitantes": 18,
+    "area_m2": "24332,32448",
+    "area_km2": "0,024332324"
+  },
+  {
+    "nombre": "Quintanas de Hormiguera",
+    "habitantes": 10,
+    "area_m2": "52090,72855",
+    "area_km2": "0,052090729"
+  },
+  {
+    "nombre": "Cevico de la Torre",
+    "habitantes": 474,
+    "area_m2": "469619,4704",
+    "area_km2": "0,46961947"
+  },
+  {
+    "nombre": "San Nicol�s del Real Camino",
+    "habitantes": 32,
+    "area_m2": "45059,69503",
+    "area_km2": "0,045059695"
+  },
+  {
+    "nombre": "Boadilla de Rioseco",
+    "habitantes": 101,
+    "area_m2": "327332,6549",
+    "area_km2": "0,327332655"
+  },
+  {
+    "nombre": "San Mart�n de los Herreros",
+    "habitantes": 9,
+    "area_m2": "49913,06948",
+    "area_km2": "0,049913069"
+  },
+  {
+    "nombre": "Villamorco",
+    "habitantes": 7,
+    "area_m2": "63845,69301",
+    "area_km2": "0,063845693"
+  },
+  {
+    "nombre": "Autilla del Pino",
+    "habitantes": 209,
+    "area_m2": "370548,9293",
+    "area_km2": "0,370548929"
+  },
+  {
+    "nombre": "Bahillo",
+    "habitantes": 82,
+    "area_m2": "150251,3916",
+    "area_km2": "0,150251392"
+  },
+  {
+    "nombre": "Villamelendro",
+    "habitantes": 9,
+    "area_m2": "69182,66426",
+    "area_km2": "0,069182664"
+  },
+  {
+    "nombre": "Cornoncillo",
+    "habitantes": 6,
+    "area_m2": "19787,74332",
+    "area_km2": "0,019787743"
+  },
+  {
+    "nombre": "Navas de Sobremonte",
+    "habitantes": 3,
+    "area_m2": "8443,471639",
+    "area_km2": "0,008443472"
+  },
+  {
+    "nombre": "Ruesga",
+    "habitantes": 36,
+    "area_m2": "75350,99495",
+    "area_km2": "0,075350995"
+  },
+  {
+    "nombre": "La Lastra",
+    "habitantes": 12,
+    "area_m2": "33874,0385",
+    "area_km2": "0,033874038"
+  },
+  {
+    "nombre": "Santa Cecilia del Alcor",
+    "habitantes": 92,
+    "area_m2": "190715,9513",
+    "area_km2": "0,190715951"
+  },
+  {
+    "nombre": "Olmos de Pisuerga",
+    "habitantes": 42,
+    "area_m2": "98191,74649",
+    "area_km2": "0,098191746"
+  },
+  {
+    "nombre": "Villavega de Aguilar",
+    "habitantes": 36,
+    "area_m2": "26663,94259",
+    "area_km2": "0,026663943"
+  },
+  {
+    "nombre": "Corn�n de la Pe�a",
+    "habitantes": 16,
+    "area_m2": "71271,88694",
+    "area_km2": "0,071271887"
+  },
+  {
+    "nombre": "Colmenares de Ojeda",
+    "habitantes": 17,
+    "area_m2": "110763,8991",
+    "area_km2": "0,110763899"
+  },
+  {
+    "nombre": "Valdebustos",
+    "habitantes": 0,
+    "area_m2": "6167,708931",
+    "area_km2": "0,006167709"
+  },
+  {
+    "nombre": "Villambroz",
+    "habitantes": 61,
+    "area_m2": "114175,446",
+    "area_km2": "0,114175446"
+  },
+  {
+    "nombre": "Revenga de Campos",
+    "habitantes": 137,
+    "area_m2": "217035,3177",
+    "area_km2": "0,217035318"
+  },
+  {
+    "nombre": "Arroyo",
+    "habitantes": 14,
+    "area_m2": "66307,80982",
+    "area_km2": "0,06630781"
+  },
+  {
+    "nombre": "Castrillo de Don Juan",
+    "habitantes": 185,
+    "area_m2": "235048,9263",
+    "area_km2": "0,235048926"
+  },
+  {
+    "nombre": "Los Olmillos",
+    "habitantes": 1181,
+    "area_m2": "2459812,116",
+    "area_km2": "2,459812116"
+  },
+  {
+    "nombre": "La Vid de Ojeda",
+    "habitantes": 93,
+    "area_m2": "123145,3109",
+    "area_km2": "0,123145311"
+  },
+  {
+    "nombre": "Dehesa de Cordovilla",
+    "habitantes": 2,
+    "area_m2": "2725,840095",
+    "area_km2": "0,00272584"
+  },
+  {
+    "nombre": "B�scones de Ojeda",
+    "habitantes": 133,
+    "area_m2": "268466,5937",
+    "area_km2": "0,268466594"
+  },
+  {
+    "nombre": "Villaprovedo",
+    "habitantes": 47,
+    "area_m2": "111854,968",
+    "area_km2": "0,111854968"
+  },
+  {
+    "nombre": "Viller�as de Campos",
+    "habitantes": 76,
+    "area_m2": "184625,6559",
+    "area_km2": "0,184625656"
+  },
+  {
+    "nombre": "El Barrio de la Puebla",
+    "habitantes": 30,
+    "area_m2": "46997,20247",
+    "area_km2": "0,046997202"
+  },
+  {
+    "nombre": "Estalaya",
+    "habitantes": 10,
+    "area_m2": "33546,43686",
+    "area_km2": "0,033546437"
+  },
+  {
+    "nombre": "Alba de los Carda�os",
+    "habitantes": 21,
+    "area_m2": "37960,19649",
+    "area_km2": "0,037960196"
+  },
+  {
+    "nombre": "Baltan�s",
+    "habitantes": 1171,
+    "area_m2": "1251527,547",
+    "area_km2": "1,251527547"
+  },
+  {
+    "nombre": "Villanueva de la Torre",
+    "habitantes": 6,
+    "area_m2": "37407,53341",
+    "area_km2": "0,037407533"
+  },
+  {
+    "nombre": "Cementos Hontoria",
+    "habitantes": 0,
+    "area_m2": "374478,8954",
+    "area_km2": "0,374478895"
+  },
+  {
+    "nombre": "San Mam�s de Zalima",
+    "habitantes": 11,
+    "area_m2": "12719,77596",
+    "area_km2": "0,012719776"
+  },
+  {
+    "nombre": "Villaescusa de Ecla",
+    "habitantes": 28,
+    "area_m2": "58465,68712",
+    "area_km2": "0,058465687"
+  },
+  {
+    "nombre": "Hornillos de Cerrato",
+    "habitantes": 170,
+    "area_m2": "162784,591",
+    "area_km2": "0,162784591"
+  },
+  {
+    "nombre": "Lores",
+    "habitantes": 32,
+    "area_m2": "67422,69574",
+    "area_km2": "0,067422696"
+  }
+]

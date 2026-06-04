@@ -1,25 +1,21 @@
 body {
   font-family: Arial;
-  margin: 40px;
-  background: #f4f4f4;
+  background: #f0f2f5;
+  padding: 30px;
 }
 
-input {
-  padding: 10px;
-  width: 300px;
-}
-
-button {
-  padding: 10px;
+select {
+  padding: 8px;
+  margin: 10px;
 }
 
 table {
   margin-top: 20px;
-  border-collapse: collapse;
   background: white;
+  border-collapse: collapse;
 }
 
 td {
-  border: 1px solid #ccc;
+  border: 1px solid #ddd;
   padding: 8px;
 }

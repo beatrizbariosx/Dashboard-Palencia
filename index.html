@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Buscador GIS</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Chart.js para gráficas -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+  <h1>Buscador de Núcleos y Calles</h1>
+
+  <input type="text" id="search" placeholder="Escribe calle o núcleo...">
+  <button onclick="buscar()">Buscar</button>
+
+  <div id="resultado"></div>
+
+  <canvas id="grafico" width="400" height="200"></canvas>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -138,7 +138,7 @@ function cargarTablaNucleos(datos) {
             <th class="p-4">Segmentos</th>
             <th class="p-4">Longitud Total</th>
             <th class="p-4">Área Territorial</th>
-            <th class="p-4">Habitantes</th>
+            <th class="p-4">Habitantes (mil)</th>
         </tr>
     `;
 

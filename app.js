@@ -31,11 +31,11 @@ async function cargarDatosDesdeJSON() {
 
     } catch (error) {
         console.error("Error al cargar los archivos JSON:", error);
-        alert("Error al cargar los datos. Verifica que nucleos.json, calles.json y areas_nucleos.json estén en la raíz.");
+        alert("Error al cargar los datos. Verifica que nucleos.json, calles.json y areas_nucleos.json estén en la raíz de tu repositorio.");
     }
 }
 
-// 2. NORMALIZAR NÚCLEOS (Une los datos de nucleos.json con areas_nucleos.json)
+// 2. NORMALIZAR NÚCLEOS (Une los datos de nucleos.json con areas_nucleos.json usando tus claves reales)
 function normalizarNucleos(arrNucleos, arrAreas) {
     return arrNucleos.map(item => {
         let rawNucleo = item["Nícleo urbano"] || item["Ncleo urbano"] || item["Nucleo urbano"] || "";
@@ -48,20 +48,23 @@ function normalizarNucleos(arrNucleos, arrAreas) {
         let longRaw = item["Longitud total (m)"] || "0";
         let longNum = parseFloat(String(longRaw).replace(/\./g, '').replace(',', '.')) || 0;
 
-        // Buscamos coincidencia en el nuevo archivo de áreas por el nombre del núcleo urbano
+        // Buscamos coincidencia usando la propiedad .nombre de tu nuevo JSON
         let infoArea = arrAreas.find(a => {
-            let nameA = a["Nícleo urbano"] || a["Ncleo urbano"] || a["Nucleo urbano"] || "";
+            let nameA = a["nombre"] || "";
             return nameA.trim().toLowerCase() === nucleoFormateado.toLowerCase();
         });
 
-        // Extraemos área y habitantes si existen en tu nuevo JSON
+        // Extraemos área y habitantes usando exactamente tus nuevas claves
         let areaNum = 0;
         let habitantesNum = 0;
+        
         if (infoArea) {
-            let areaRaw = infoArea["Área (m²)"] || infoArea["Area (m²)"] || infoArea["Superficie"] || "0";
+            // Extraemos "area_m2" y cambiamos su coma por punto para que JS lo entienda como número
+            let areaRaw = infoArea["area_m2"] || "0";
             areaNum = parseFloat(String(areaRaw).replace(/\./g, '').replace(',', '.')) || 0;
 
-            let habRaw = infoArea["Habitantes"] || infoArea["Población"] || infoArea["Poblacion"] || "0";
+            // Extraemos "habitantes"
+            let habRaw = infoArea["habitantes"] || "0";
             habitantesNum = parseInt(String(habRaw).replace(/\./g, '')) || 0;
         }
 
@@ -98,7 +101,7 @@ function cargarKPIs() {
     document.getElementById('kpi-calles').innerText = callesLimpias.length;
 }
 
-// 5. CONTROLADOR DE VISTAS (Cambio entre botones)
+// 5. CONTROLADOR DE VISTAS (Cambio entre botones laterales)
 function cambiarVista(vista) {
     vistaActual = vista;
     const btnNucleos = document.getElementById('btn-vista-nucleos');
@@ -125,7 +128,7 @@ function cambiarVista(vista) {
     }
 }
 
-// 6. TABLA NÚCLEOS (Con tus nuevos campos de Área y Habitantes)
+// 6. TABLA NÚCLEOS (Con tus nuevos campos de Área y Habitantes ya vinculados)
 function cargarTablaNucleos(datos) {
     const cabecera = document.getElementById('tabla-cabecera');
     cabecera.innerHTML = `
@@ -143,8 +146,8 @@ function cargarTablaNucleos(datos) {
     cuerpo.innerHTML = '';
     
     datos.forEach(n => {
-        // Formateos limpios para que no salgan columnas vacías si no cruzó algún núcleo
-        const mostrarArea = n.area > 0 ? `${n.area.toLocaleString('es-ES')} m²` : 'Sin datos';
+        // Si el cruce devolvió un valor mayor a cero, lo muestra formateado; si no, indica "Sin datos"
+        const mostrarArea = n.area > 0 ? `${n.area.toLocaleString('es-ES', {maximumFractionDigits: 2})} m²` : 'Sin datos';
         const mostrarHabitantes = n.habitantes > 0 ? `${n.habitantes.toLocaleString('es-ES')} hab.` : 'Sin datos';
 
         const fila = `
@@ -189,7 +192,7 @@ function cargarTablaCalles(datos) {
     });
 }
 
-// 8. GRÁFICOS DE LA VISTA NÚCLEOS (Calles + Habitantes de areas_nucleos.json)
+// 8. GRÁFICOS DE LA VISTA NÚCLEOS (Calles + Habitantes del nuevo JSON)
 function inicializarGraficos(datos) {
     if (graficoBarras) graficoBarras.destroy();
     if (graficoLineas) graficoLineas.destroy();
@@ -218,7 +221,7 @@ function inicializarGraficos(datos) {
         options: { responsive: true, maintainAspectRatio: false }
     });
 
-    // Gráfico de Línea con Relleno (Habitantes del nuevo JSON)
+    // Gráfico de línea con relleno (Habitantes del nuevo JSON)
     const ctxLineas = document.getElementById('chartLineas').getContext('2d');
     graficoLineas = new Chart(ctxLineas, {
         type: 'line',
@@ -277,7 +280,7 @@ function inicializarGraficosParaCalles(topCalles) {
     });
 }
 
-// 10. DETALLES AL HACER CLICK
+// 10. DETALLES INTERACTIVOS AL HACER CLIC EN UN NÚCLEO DE LA TABLA
 function verDetalle(nombreNucleo) {
     const filtradas = callesLimpias.filter(c => c.nucleo.toLowerCase() === nombreNucleo.toLowerCase());
     
@@ -295,7 +298,7 @@ function verDetalle(nombreNucleo) {
     alert(mensaje);
 }
 
-// 11. BUSCADOR INTEGRADO
+// 11. BUSCADOR INTEGRADO MULTIPROPÓSITO
 document.getElementById('buscador').addEventListener('input', (e) => {
     const texto = e.target.value.toLowerCase();
     if (vistaActual === 'nucleos') {
@@ -307,6 +310,7 @@ document.getElementById('buscador').addEventListener('input', (e) => {
     }
 });
 
+// DISPARADOR INICIAL
 window.onload = () => {
     cargarDatosDesdeJSON();
 };

@@ -2,23 +2,29 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Buscador GIS</title>
-  <link rel="stylesheet" href="style.css">
-
-  <!-- Chart.js para gráficas -->
+  <title>Dashboard GIS</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-  <h1>Buscador de Núcleos y Calles</h1>
+  <h1>📍 Dashboard GIS</h1>
 
-  <input type="text" id="search" placeholder="Escribe calle o núcleo...">
-  <button onclick="buscar()">Buscar</button>
+  <label>Tipo:</label>
+  <select id="tipo" onchange="cargarOpciones()">
+    <option value="nucleos">Núcleos urbanos</option>
+    <option value="calles">Calles</option>
+  </select>
+
+  <br><br>
+
+  <label>Elemento:</label>
+  <select id="elemento" onchange="mostrarDatos()"></select>
 
   <div id="resultado"></div>
 
-  <canvas id="grafico" width="400" height="200"></canvas>
+  <canvas id="grafico"></canvas>
 
   <script src="app.js"></script>
 </body>
